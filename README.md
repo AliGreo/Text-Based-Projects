@@ -4,3 +4,4 @@
 # Projects on this repo
 ### - Text classification with deep learning algorithms.
 ### - Fine tune bert for sentiment analysis
+### - Fine QWen2 0.5B model on code based dataset
